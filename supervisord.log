@@ -1,0 +1,588 @@
+2022-11-09 01:55:55,645 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-11-09 01:55:55,646 INFO Included extra file "/etc/supervisor.d/cron.conf" during parsing
+2022-11-09 01:55:55,646 INFO Included extra file "/etc/supervisor.d/horizon.conf" during parsing
+2022-11-09 01:55:55,647 INFO Included extra file "/etc/supervisor.d/php-fpm.conf" during parsing
+2022-11-09 01:55:55,657 INFO supervisord started with pid 1
+2022-11-09 01:55:56,663 INFO spawned: 'cron-job' with pid 10
+2022-11-09 01:55:56,675 INFO spawned: 'horizon' with pid 11
+2022-11-09 01:55:56,685 INFO spawned: 'php-fpm' with pid 12
+2022-11-09 01:55:57,761 INFO success: cron-job entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 01:55:57,761 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 01:55:57,762 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 01:56:05,403 INFO exited: horizon (exit status 0; expected)
+2022-11-09 01:56:06,411 INFO spawned: 'horizon' with pid 22
+2022-11-09 01:56:07,413 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 01:56:15,705 INFO exited: horizon (exit status 0; expected)
+2022-11-09 01:56:16,713 INFO spawned: 'horizon' with pid 35
+2022-11-09 01:56:17,716 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 01:56:24,858 INFO exited: horizon (exit status 0; expected)
+2022-11-09 01:56:24,863 INFO spawned: 'horizon' with pid 42
+2022-11-09 01:56:25,866 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 01:56:34,365 INFO exited: horizon (exit status 0; expected)
+2022-11-09 01:56:35,372 INFO spawned: 'horizon' with pid 49
+2022-11-09 01:56:36,375 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 01:56:45,065 INFO exited: horizon (exit status 0; expected)
+2022-11-09 01:56:46,077 INFO spawned: 'horizon' with pid 56
+2022-11-09 01:56:47,080 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 01:56:55,325 INFO exited: horizon (exit status 0; expected)
+2022-11-09 01:56:56,332 INFO spawned: 'horizon' with pid 72
+2022-11-09 01:56:57,335 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 01:57:05,497 INFO exited: horizon (exit status 0; expected)
+2022-11-09 01:57:06,505 INFO spawned: 'horizon' with pid 80
+2022-11-09 01:57:07,507 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 01:57:17,071 INFO exited: horizon (exit status 0; expected)
+2022-11-09 01:57:18,078 INFO spawned: 'horizon' with pid 93
+2022-11-09 01:57:19,080 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 01:57:27,667 INFO exited: horizon (exit status 0; expected)
+2022-11-09 01:57:28,677 INFO spawned: 'horizon' with pid 100
+2022-11-09 01:57:29,680 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 01:57:37,804 INFO exited: horizon (exit status 0; expected)
+2022-11-09 01:57:38,809 INFO spawned: 'horizon' with pid 107
+2022-11-09 01:57:39,812 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 01:57:48,003 INFO exited: horizon (exit status 0; expected)
+2022-11-09 01:57:49,011 INFO spawned: 'horizon' with pid 114
+2022-11-09 01:57:50,013 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 01:57:59,615 INFO exited: horizon (exit status 0; expected)
+2022-11-09 01:58:00,626 INFO spawned: 'horizon' with pid 121
+2022-11-09 01:58:01,630 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 01:58:06,815 INFO exited: horizon (exit status 0; expected)
+2022-11-09 01:58:07,830 INFO spawned: 'horizon' with pid 135
+2022-11-09 01:58:08,834 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 01:58:17,652 INFO exited: horizon (exit status 0; expected)
+2022-11-09 01:58:18,660 INFO spawned: 'horizon' with pid 142
+2022-11-09 01:58:19,662 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 01:58:27,020 INFO exited: horizon (exit status 0; expected)
+2022-11-09 01:58:28,027 INFO spawned: 'horizon' with pid 149
+2022-11-09 01:58:29,202 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 01:58:36,737 INFO exited: horizon (exit status 0; expected)
+2022-11-09 01:58:37,745 INFO spawned: 'horizon' with pid 156
+2022-11-09 01:58:38,747 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 01:58:46,539 INFO exited: horizon (exit status 0; expected)
+2022-11-09 01:58:47,545 INFO spawned: 'horizon' with pid 163
+2022-11-09 01:58:48,548 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 01:58:57,865 INFO exited: horizon (exit status 0; expected)
+2022-11-09 01:58:58,872 INFO spawned: 'horizon' with pid 170
+2022-11-09 01:58:59,875 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 01:59:06,616 INFO exited: horizon (exit status 0; expected)
+2022-11-09 01:59:07,623 INFO spawned: 'horizon' with pid 184
+2022-11-09 01:59:08,626 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 01:59:16,511 INFO exited: horizon (exit status 0; expected)
+2022-11-09 01:59:17,519 INFO spawned: 'horizon' with pid 191
+2022-11-09 01:59:18,523 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 01:59:27,179 INFO exited: horizon (exit status 0; expected)
+2022-11-09 01:59:28,186 INFO spawned: 'horizon' with pid 198
+2022-11-09 01:59:29,190 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 01:59:35,233 INFO exited: horizon (exit status 0; expected)
+2022-11-09 01:59:36,239 INFO spawned: 'horizon' with pid 205
+2022-11-09 01:59:37,241 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 01:59:46,136 INFO exited: horizon (exit status 0; expected)
+2022-11-09 01:59:47,146 INFO spawned: 'horizon' with pid 212
+2022-11-09 01:59:48,149 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 01:59:57,391 INFO exited: horizon (exit status 0; expected)
+2022-11-09 01:59:58,397 INFO spawned: 'horizon' with pid 219
+2022-11-09 01:59:59,400 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:00:07,195 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:00:08,202 INFO spawned: 'horizon' with pid 236
+2022-11-09 02:00:09,205 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:00:16,856 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:00:17,167 INFO spawned: 'horizon' with pid 243
+2022-11-09 02:00:18,172 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:00:26,826 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:00:27,832 INFO spawned: 'horizon' with pid 250
+2022-11-09 02:00:28,834 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:00:36,270 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:00:37,276 INFO spawned: 'horizon' with pid 257
+2022-11-09 02:00:38,278 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:00:46,265 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:00:47,271 INFO spawned: 'horizon' with pid 264
+2022-11-09 02:00:48,274 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:00:54,472 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:00:55,478 INFO spawned: 'horizon' with pid 271
+2022-11-09 02:00:56,481 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:01:04,015 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:01:05,021 INFO spawned: 'horizon' with pid 279
+2022-11-09 02:01:06,024 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:01:13,558 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:01:14,564 INFO spawned: 'horizon' with pid 292
+2022-11-09 02:01:15,568 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:01:22,005 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:01:23,015 INFO spawned: 'horizon' with pid 299
+2022-11-09 02:01:24,019 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:01:32,591 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:01:33,597 INFO spawned: 'horizon' with pid 306
+2022-11-09 02:01:34,608 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:01:43,766 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:01:44,773 INFO spawned: 'horizon' with pid 313
+2022-11-09 02:01:45,775 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:01:53,690 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:01:54,696 INFO spawned: 'horizon' with pid 320
+2022-11-09 02:01:55,699 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:02:03,589 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:02:04,596 INFO spawned: 'horizon' with pid 328
+2022-11-09 02:02:05,599 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:02:13,539 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:02:14,545 INFO spawned: 'horizon' with pid 341
+2022-11-09 02:02:15,548 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:02:23,140 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:02:24,147 INFO spawned: 'horizon' with pid 348
+2022-11-09 02:02:25,150 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:02:33,299 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:02:34,309 INFO spawned: 'horizon' with pid 355
+2022-11-09 02:02:35,312 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:02:43,238 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:02:44,244 INFO spawned: 'horizon' with pid 362
+2022-11-09 02:02:45,254 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:02:52,651 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:02:53,657 INFO spawned: 'horizon' with pid 369
+2022-11-09 02:02:54,660 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:03:03,032 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:03:04,039 INFO spawned: 'horizon' with pid 377
+2022-11-09 02:03:05,042 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:03:11,142 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:03:12,149 INFO spawned: 'horizon' with pid 390
+2022-11-09 02:03:13,159 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:03:20,752 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:03:21,758 INFO spawned: 'horizon' with pid 397
+2022-11-09 02:03:22,760 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:03:30,415 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:03:31,421 INFO spawned: 'horizon' with pid 404
+2022-11-09 02:03:32,424 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:03:37,924 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:03:38,930 INFO spawned: 'horizon' with pid 411
+2022-11-09 02:03:39,933 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:03:47,846 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:03:48,856 INFO spawned: 'horizon' with pid 418
+2022-11-09 02:03:49,878 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:03:57,029 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:03:57,034 INFO spawned: 'horizon' with pid 425
+2022-11-09 02:03:58,036 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:04:05,359 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:04:06,364 INFO spawned: 'horizon' with pid 433
+2022-11-09 02:04:07,374 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:04:15,249 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:04:16,259 INFO spawned: 'horizon' with pid 446
+2022-11-09 02:04:17,262 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:04:25,256 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:04:26,264 INFO spawned: 'horizon' with pid 453
+2022-11-09 02:04:27,268 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:04:35,231 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:04:36,241 INFO spawned: 'horizon' with pid 460
+2022-11-09 02:04:37,244 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:04:45,733 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:04:46,739 INFO spawned: 'horizon' with pid 467
+2022-11-09 02:04:47,742 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:04:57,437 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:04:58,444 INFO spawned: 'horizon' with pid 474
+2022-11-09 02:04:59,446 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:05:07,154 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:05:08,163 INFO spawned: 'horizon' with pid 488
+2022-11-09 02:05:09,166 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:05:17,465 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:05:18,485 INFO spawned: 'horizon' with pid 495
+2022-11-09 02:05:19,488 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:05:28,228 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:05:29,237 INFO spawned: 'horizon' with pid 502
+2022-11-09 02:05:30,240 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:05:38,667 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:05:39,674 INFO spawned: 'horizon' with pid 509
+2022-11-09 02:05:40,676 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:05:49,144 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:05:50,150 INFO spawned: 'horizon' with pid 522
+2022-11-09 02:05:51,153 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:05:58,810 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:05:58,817 INFO spawned: 'horizon' with pid 530
+2022-11-09 02:05:59,819 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:06:07,358 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:06:08,366 INFO spawned: 'horizon' with pid 544
+2022-11-09 02:06:09,369 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:06:17,998 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:06:19,009 INFO spawned: 'horizon' with pid 551
+2022-11-09 02:06:20,012 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:06:28,573 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:06:29,579 INFO spawned: 'horizon' with pid 558
+2022-11-09 02:06:30,582 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:06:39,253 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:06:40,261 INFO spawned: 'horizon' with pid 565
+2022-11-09 02:06:41,263 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:06:49,056 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:06:50,063 INFO spawned: 'horizon' with pid 572
+2022-11-09 02:06:51,066 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:06:59,590 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:07:00,598 INFO spawned: 'horizon' with pid 579
+2022-11-09 02:07:01,602 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:07:07,536 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:07:08,544 INFO spawned: 'horizon' with pid 593
+2022-11-09 02:07:09,548 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:07:17,637 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:07:18,647 INFO spawned: 'horizon' with pid 600
+2022-11-09 02:07:19,650 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:07:27,965 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:07:28,974 INFO spawned: 'horizon' with pid 607
+2022-11-09 02:07:29,978 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:07:38,144 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:07:39,151 INFO spawned: 'horizon' with pid 614
+2022-11-09 02:07:40,154 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:07:48,312 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:07:49,322 INFO spawned: 'horizon' with pid 621
+2022-11-09 02:07:50,326 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:08:00,641 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:08:01,648 INFO spawned: 'horizon' with pid 629
+2022-11-09 02:08:02,651 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:08:10,839 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:08:11,846 INFO spawned: 'horizon' with pid 642
+2022-11-09 02:08:12,848 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:08:20,795 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:08:21,804 INFO spawned: 'horizon' with pid 649
+2022-11-09 02:08:22,808 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:08:31,042 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:08:32,052 INFO spawned: 'horizon' with pid 656
+2022-11-09 02:08:33,056 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:08:40,961 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:08:41,969 INFO spawned: 'horizon' with pid 663
+2022-11-09 02:08:42,971 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:08:51,232 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:08:52,240 INFO spawned: 'horizon' with pid 670
+2022-11-09 02:08:53,242 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:09:01,792 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:09:02,799 INFO spawned: 'horizon' with pid 678
+2022-11-09 02:09:03,802 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:09:12,593 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:09:13,603 INFO spawned: 'horizon' with pid 691
+2022-11-09 02:09:14,607 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:09:23,463 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:09:24,475 INFO spawned: 'horizon' with pid 698
+2022-11-09 02:09:25,480 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:09:34,609 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:09:35,617 INFO spawned: 'horizon' with pid 705
+2022-11-09 02:09:36,620 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:09:45,493 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:09:46,499 INFO spawned: 'horizon' with pid 712
+2022-11-09 02:09:47,502 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:09:57,676 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:09:58,683 INFO spawned: 'horizon' with pid 719
+2022-11-09 02:09:59,686 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:10:07,434 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:10:08,443 INFO spawned: 'horizon' with pid 733
+2022-11-09 02:10:09,446 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:10:18,328 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:10:19,338 INFO spawned: 'horizon' with pid 740
+2022-11-09 02:10:20,341 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:10:29,655 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:10:30,661 INFO spawned: 'horizon' with pid 747
+2022-11-09 02:10:31,664 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:10:40,493 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:10:41,500 INFO spawned: 'horizon' with pid 754
+2022-11-09 02:10:42,502 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:10:51,468 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:10:52,476 INFO spawned: 'horizon' with pid 761
+2022-11-09 02:10:53,479 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:11:02,197 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:11:03,205 INFO spawned: 'horizon' with pid 769
+2022-11-09 02:11:04,208 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:11:12,232 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:11:13,239 INFO spawned: 'horizon' with pid 782
+2022-11-09 02:11:14,242 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:11:22,653 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:11:23,659 INFO spawned: 'horizon' with pid 789
+2022-11-09 02:11:24,662 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:11:32,914 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:11:33,920 INFO spawned: 'horizon' with pid 796
+2022-11-09 02:11:34,923 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:11:38,876 INFO exited: horizon (exit status 0; expected)
+2022-11-09 02:11:39,883 INFO spawned: 'horizon' with pid 803
+2022-11-09 02:11:40,885 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:12:59,077 WARN received SIGQUIT indicating exit request
+2022-11-09 02:12:59,078 INFO waiting for cron-job, horizon, php-fpm to die
+2022-11-09 02:12:59,088 INFO stopped: php-fpm (exit status 0)
+2022-11-09 02:13:02,161 INFO stopped: horizon (exit status 0)
+2022-11-09 02:13:02,169 INFO waiting for cron-job to die
+2022-11-09 02:13:02,174 INFO stopped: cron-job (terminated by SIGTERM)
+2022-11-09 02:13:39,774 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-11-09 02:13:39,775 INFO Included extra file "/etc/supervisor.d/cron.conf" during parsing
+2022-11-09 02:13:39,775 INFO Included extra file "/etc/supervisor.d/horizon.conf" during parsing
+2022-11-09 02:13:39,776 INFO Included extra file "/etc/supervisor.d/php-fpm.conf" during parsing
+2022-11-09 02:13:39,786 INFO supervisord started with pid 1
+2022-11-09 02:13:40,790 INFO spawned: 'cron-job' with pid 10
+2022-11-09 02:13:40,801 INFO spawned: 'horizon' with pid 11
+2022-11-09 02:13:40,806 INFO spawned: 'php-fpm' with pid 12
+2022-11-09 02:13:41,913 INFO success: cron-job entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:13:41,914 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:13:41,914 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:37:13,536 WARN received SIGQUIT indicating exit request
+2022-11-09 02:37:13,537 INFO waiting for cron-job, horizon, php-fpm to die
+2022-11-09 02:37:13,547 INFO stopped: php-fpm (exit status 0)
+2022-11-09 02:37:16,669 INFO stopped: horizon (exit status 0)
+2022-11-09 02:37:16,670 INFO waiting for cron-job to die
+2022-11-09 02:37:16,671 INFO stopped: cron-job (terminated by SIGTERM)
+2022-11-09 02:38:02,030 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-11-09 02:38:02,031 INFO Included extra file "/etc/supervisor.d/cron.conf" during parsing
+2022-11-09 02:38:02,032 INFO Included extra file "/etc/supervisor.d/horizon.conf" during parsing
+2022-11-09 02:38:02,032 INFO Included extra file "/etc/supervisor.d/php-fpm.conf" during parsing
+2022-11-09 02:38:02,043 INFO supervisord started with pid 1
+2022-11-09 02:38:03,048 INFO spawned: 'cron-job' with pid 10
+2022-11-09 02:38:03,054 INFO spawned: 'horizon' with pid 11
+2022-11-09 02:38:03,059 INFO spawned: 'php-fpm' with pid 12
+2022-11-09 02:38:04,143 INFO success: cron-job entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:38:04,144 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:38:04,144 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:47:29,096 WARN received SIGQUIT indicating exit request
+2022-11-09 02:47:29,097 INFO waiting for cron-job, horizon, php-fpm to die
+2022-11-09 02:47:29,103 INFO stopped: php-fpm (exit status 0)
+2022-11-09 02:47:31,174 INFO stopped: horizon (exit status 0)
+2022-11-09 02:47:31,177 INFO stopped: cron-job (terminated by SIGTERM)
+2022-11-09 02:47:35,461 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-11-09 02:47:35,464 INFO Included extra file "/etc/supervisor.d/cron.conf" during parsing
+2022-11-09 02:47:35,465 INFO Included extra file "/etc/supervisor.d/horizon.conf" during parsing
+2022-11-09 02:47:35,466 INFO Included extra file "/etc/supervisor.d/php-fpm.conf" during parsing
+2022-11-09 02:47:35,478 INFO supervisord started with pid 1
+2022-11-09 02:47:36,485 INFO spawned: 'cron-job' with pid 10
+2022-11-09 02:47:36,492 INFO spawned: 'horizon' with pid 11
+2022-11-09 02:47:36,496 INFO spawned: 'php-fpm' with pid 12
+2022-11-09 02:47:37,564 INFO success: cron-job entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:47:37,565 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:47:37,566 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:47:44,981 INFO exited: horizon (exit status 255; not expected)
+2022-11-09 02:47:45,026 INFO spawned: 'horizon' with pid 22
+2022-11-09 02:47:46,037 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:47:53,057 INFO exited: horizon (exit status 255; not expected)
+2022-11-09 02:47:54,064 INFO spawned: 'horizon' with pid 29
+2022-11-09 02:47:55,258 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:48:02,930 INFO exited: horizon (exit status 255; not expected)
+2022-11-09 02:48:03,941 INFO spawned: 'horizon' with pid 37
+2022-11-09 02:48:04,944 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:48:12,172 INFO exited: horizon (exit status 255; not expected)
+2022-11-09 02:48:12,180 INFO spawned: 'horizon' with pid 50
+2022-11-09 02:48:13,183 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:48:16,187 WARN received SIGQUIT indicating exit request
+2022-11-09 02:48:16,188 INFO waiting for cron-job, horizon, php-fpm to die
+2022-11-09 02:48:16,197 INFO stopped: php-fpm (exit status 0)
+2022-11-09 02:48:16,206 INFO stopped: horizon (terminated by SIGTERM)
+2022-11-09 02:48:16,209 INFO stopped: cron-job (terminated by SIGTERM)
+2022-11-09 02:49:47,039 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-11-09 02:49:47,041 INFO Included extra file "/etc/supervisor.d/cron.conf" during parsing
+2022-11-09 02:49:47,041 INFO Included extra file "/etc/supervisor.d/horizon.conf" during parsing
+2022-11-09 02:49:47,042 INFO Included extra file "/etc/supervisor.d/php-fpm.conf" during parsing
+2022-11-09 02:49:47,056 INFO supervisord started with pid 1
+2022-11-09 02:49:48,060 INFO spawned: 'cron-job' with pid 10
+2022-11-09 02:49:48,068 INFO spawned: 'horizon' with pid 11
+2022-11-09 02:49:48,072 INFO spawned: 'php-fpm' with pid 12
+2022-11-09 02:49:49,153 INFO success: cron-job entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:49:49,154 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:49:49,155 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:49:56,057 INFO exited: horizon (exit status 255; not expected)
+2022-11-09 02:49:57,065 INFO spawned: 'horizon' with pid 21
+2022-11-09 02:49:58,068 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:50:04,992 INFO exited: horizon (exit status 255; not expected)
+2022-11-09 02:50:05,998 INFO spawned: 'horizon' with pid 29
+2022-11-09 02:50:07,001 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:50:15,405 INFO exited: horizon (exit status 255; not expected)
+2022-11-09 02:50:16,411 INFO spawned: 'horizon' with pid 42
+2022-11-09 02:50:17,414 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:50:24,928 INFO exited: horizon (exit status 255; not expected)
+2022-11-09 02:50:25,938 INFO spawned: 'horizon' with pid 49
+2022-11-09 02:50:26,941 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:50:34,391 INFO exited: horizon (exit status 255; not expected)
+2022-11-09 02:50:35,401 INFO spawned: 'horizon' with pid 56
+2022-11-09 02:50:36,405 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:50:43,706 INFO exited: horizon (exit status 255; not expected)
+2022-11-09 02:50:44,715 INFO spawned: 'horizon' with pid 63
+2022-11-09 02:50:45,718 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:50:53,101 INFO exited: horizon (exit status 255; not expected)
+2022-11-09 02:50:54,108 INFO spawned: 'horizon' with pid 70
+2022-11-09 02:50:55,111 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:51:02,111 INFO exited: horizon (exit status 255; not expected)
+2022-11-09 02:51:03,117 INFO spawned: 'horizon' with pid 78
+2022-11-09 02:51:04,120 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:51:11,832 INFO exited: horizon (exit status 255; not expected)
+2022-11-09 02:51:12,839 INFO spawned: 'horizon' with pid 91
+2022-11-09 02:51:13,842 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:51:22,362 INFO exited: horizon (exit status 255; not expected)
+2022-11-09 02:51:23,372 INFO spawned: 'horizon' with pid 98
+2022-11-09 02:51:24,376 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:51:31,985 INFO exited: horizon (exit status 255; not expected)
+2022-11-09 02:51:32,991 INFO spawned: 'horizon' with pid 105
+2022-11-09 02:51:33,993 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:51:41,294 INFO exited: horizon (exit status 255; not expected)
+2022-11-09 02:51:42,302 INFO spawned: 'horizon' with pid 112
+2022-11-09 02:51:43,305 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:51:48,671 INFO exited: horizon (exit status 255; not expected)
+2022-11-09 02:51:49,677 INFO spawned: 'horizon' with pid 119
+2022-11-09 02:51:50,680 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 02:51:57,563 INFO exited: horizon (exit status 255; not expected)
+2022-11-09 02:51:58,571 INFO spawned: 'horizon' with pid 126
+2022-11-09 02:51:59,574 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 03:00:22,022 WARN received SIGQUIT indicating exit request
+2022-11-09 03:00:22,024 INFO waiting for cron-job, horizon, php-fpm to die
+2022-11-09 03:00:22,035 INFO stopped: php-fpm (exit status 0)
+2022-11-09 03:00:25,152 INFO stopped: horizon (exit status 0)
+2022-11-09 03:00:25,154 INFO waiting for cron-job to die
+2022-11-09 03:00:25,155 INFO stopped: cron-job (terminated by SIGTERM)
+2022-11-09 03:00:28,824 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-11-09 03:00:28,825 INFO Included extra file "/etc/supervisor.d/cron.conf" during parsing
+2022-11-09 03:00:28,825 INFO Included extra file "/etc/supervisor.d/horizon.conf" during parsing
+2022-11-09 03:00:28,826 INFO Included extra file "/etc/supervisor.d/php-fpm.conf" during parsing
+2022-11-09 03:00:28,836 INFO supervisord started with pid 1
+2022-11-09 03:00:29,840 INFO spawned: 'cron-job' with pid 11
+2022-11-09 03:00:29,847 INFO spawned: 'horizon' with pid 12
+2022-11-09 03:00:29,852 INFO spawned: 'php-fpm' with pid 13
+2022-11-09 03:00:30,928 INFO success: cron-job entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 03:00:30,928 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 03:00:30,929 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 03:02:11,686 WARN received SIGQUIT indicating exit request
+2022-11-09 03:02:11,687 INFO waiting for cron-job, horizon, php-fpm to die
+2022-11-09 03:02:11,696 INFO stopped: php-fpm (exit status 0)
+2022-11-09 03:02:14,749 INFO stopped: horizon (exit status 0)
+2022-11-09 03:02:14,756 INFO waiting for cron-job to die
+2022-11-09 03:02:14,758 INFO stopped: cron-job (terminated by SIGTERM)
+2022-11-09 03:02:14,760 INFO reaped unknown pid 54 (exit status 0)
+2022-11-09 03:02:18,533 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-11-09 03:02:18,534 INFO Included extra file "/etc/supervisor.d/cron.conf" during parsing
+2022-11-09 03:02:18,535 INFO Included extra file "/etc/supervisor.d/horizon.conf" during parsing
+2022-11-09 03:02:18,535 INFO Included extra file "/etc/supervisor.d/php-fpm.conf" during parsing
+2022-11-09 03:02:18,545 INFO supervisord started with pid 1
+2022-11-09 03:02:19,550 INFO spawned: 'cron-job' with pid 10
+2022-11-09 03:02:19,558 INFO spawned: 'horizon' with pid 11
+2022-11-09 03:02:19,564 INFO spawned: 'php-fpm' with pid 12
+2022-11-09 03:02:20,667 INFO success: cron-job entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 03:02:20,668 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 03:02:20,669 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 03:28:53,569 WARN received SIGQUIT indicating exit request
+2022-11-09 03:28:53,571 INFO waiting for cron-job, horizon, php-fpm to die
+2022-11-09 03:28:53,578 INFO stopped: php-fpm (exit status 0)
+2022-11-09 03:28:56,689 INFO stopped: horizon (exit status 0)
+2022-11-09 03:28:56,691 INFO waiting for cron-job to die
+2022-11-09 03:28:56,693 INFO stopped: cron-job (terminated by SIGTERM)
+2022-11-09 03:29:02,079 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-11-09 03:29:02,086 INFO Included extra file "/etc/supervisor.d/cron.conf" during parsing
+2022-11-09 03:29:02,099 INFO Included extra file "/etc/supervisor.d/horizon.conf" during parsing
+2022-11-09 03:29:02,100 INFO Included extra file "/etc/supervisor.d/php-fpm.conf" during parsing
+2022-11-09 03:29:02,140 INFO supervisord started with pid 1
+2022-11-09 03:29:03,150 INFO spawned: 'cron-job' with pid 10
+2022-11-09 03:29:03,159 INFO spawned: 'horizon' with pid 11
+2022-11-09 03:29:03,169 INFO spawned: 'php-fpm' with pid 12
+2022-11-09 03:29:04,318 INFO success: cron-job entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 03:29:04,320 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 03:29:04,321 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 03:29:22,480 INFO exited: horizon (exit status 1; not expected)
+2022-11-09 03:29:23,510 INFO spawned: 'horizon' with pid 21
+2022-11-09 03:29:24,516 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 03:29:38,476 INFO exited: horizon (exit status 1; not expected)
+2022-11-09 03:29:39,484 INFO spawned: 'horizon' with pid 28
+2022-11-09 03:29:40,487 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 03:29:43,190 WARN received SIGQUIT indicating exit request
+2022-11-09 03:29:43,191 INFO waiting for cron-job, horizon, php-fpm to die
+2022-11-09 03:29:43,201 INFO stopped: php-fpm (exit status 0)
+2022-11-09 03:29:43,210 INFO stopped: horizon (terminated by SIGTERM)
+2022-11-09 03:29:43,212 INFO stopped: cron-job (terminated by SIGTERM)
+2022-11-09 03:29:46,699 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-11-09 03:29:46,701 INFO Included extra file "/etc/supervisor.d/cron.conf" during parsing
+2022-11-09 03:29:46,701 INFO Included extra file "/etc/supervisor.d/horizon.conf" during parsing
+2022-11-09 03:29:46,703 INFO Included extra file "/etc/supervisor.d/php-fpm.conf" during parsing
+2022-11-09 03:29:46,718 INFO supervisord started with pid 1
+2022-11-09 03:29:47,725 INFO spawned: 'cron-job' with pid 10
+2022-11-09 03:29:47,735 INFO spawned: 'horizon' with pid 11
+2022-11-09 03:29:47,742 INFO spawned: 'php-fpm' with pid 12
+2022-11-09 03:29:48,820 INFO success: cron-job entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 03:29:48,821 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 03:29:48,821 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 03:29:56,830 INFO exited: horizon (exit status 1; not expected)
+2022-11-09 03:29:57,837 INFO spawned: 'horizon' with pid 22
+2022-11-09 03:29:58,839 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 03:30:07,184 INFO exited: horizon (exit status 1; not expected)
+2022-11-09 03:30:08,193 INFO spawned: 'horizon' with pid 37
+2022-11-09 03:30:09,196 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 03:30:18,853 INFO exited: horizon (exit status 1; not expected)
+2022-11-09 03:30:19,861 INFO spawned: 'horizon' with pid 50
+2022-11-09 03:30:20,864 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 03:30:29,549 INFO exited: horizon (exit status 1; not expected)
+2022-11-09 03:30:30,561 INFO spawned: 'horizon' with pid 58
+2022-11-09 03:30:31,564 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 03:30:39,905 INFO exited: horizon (exit status 1; not expected)
+2022-11-09 03:30:40,912 INFO spawned: 'horizon' with pid 68
+2022-11-09 03:30:41,915 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 03:49:39,484 WARN received SIGQUIT indicating exit request
+2022-11-09 03:49:39,485 INFO waiting for cron-job, horizon, php-fpm to die
+2022-11-09 03:49:39,493 INFO stopped: php-fpm (exit status 0)
+2022-11-09 03:49:42,588 INFO stopped: horizon (exit status 0)
+2022-11-09 03:49:42,590 INFO waiting for cron-job to die
+2022-11-09 03:49:42,591 INFO stopped: cron-job (terminated by SIGTERM)
+2022-11-09 03:49:46,329 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-11-09 03:49:46,330 INFO Included extra file "/etc/supervisor.d/cron.conf" during parsing
+2022-11-09 03:49:46,330 INFO Included extra file "/etc/supervisor.d/horizon.conf" during parsing
+2022-11-09 03:49:46,331 INFO Included extra file "/etc/supervisor.d/php-fpm.conf" during parsing
+2022-11-09 03:49:46,340 INFO supervisord started with pid 1
+2022-11-09 03:49:47,345 INFO spawned: 'cron-job' with pid 10
+2022-11-09 03:49:47,351 INFO spawned: 'horizon' with pid 11
+2022-11-09 03:49:47,356 INFO spawned: 'php-fpm' with pid 12
+2022-11-09 03:49:48,447 INFO success: cron-job entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 03:49:48,448 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 03:49:48,448 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 07:52:27,326 WARN received SIGQUIT indicating exit request
+2022-11-09 07:52:27,329 INFO waiting for cron-job, horizon, php-fpm to die
+2022-11-09 07:52:27,339 INFO stopped: php-fpm (exit status 0)
+2022-11-09 07:52:30,565 INFO stopped: horizon (exit status 0)
+2022-11-09 07:52:30,568 INFO waiting for cron-job to die
+2022-11-09 07:52:30,569 INFO stopped: cron-job (terminated by SIGTERM)
+2022-11-09 07:53:20,155 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-11-09 07:53:20,155 INFO Included extra file "/etc/supervisor.d/cron.conf" during parsing
+2022-11-09 07:53:20,156 INFO Included extra file "/etc/supervisor.d/horizon.conf" during parsing
+2022-11-09 07:53:20,157 INFO Included extra file "/etc/supervisor.d/php-fpm.conf" during parsing
+2022-11-09 07:53:20,168 INFO supervisord started with pid 1
+2022-11-09 07:53:21,173 INFO spawned: 'cron-job' with pid 10
+2022-11-09 07:53:21,179 INFO spawned: 'horizon' with pid 11
+2022-11-09 07:53:21,193 INFO spawned: 'php-fpm' with pid 12
+2022-11-09 07:53:22,278 INFO success: cron-job entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 07:53:22,279 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 07:53:22,279 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 08:00:50,771 WARN received SIGQUIT indicating exit request
+2022-11-09 08:00:50,773 INFO waiting for cron-job, horizon, php-fpm to die
+2022-11-09 08:00:50,794 INFO stopped: php-fpm (exit status 0)
+2022-11-09 08:00:53,887 INFO stopped: horizon (exit status 0)
+2022-11-09 08:00:53,888 INFO waiting for cron-job to die
+2022-11-09 08:00:53,890 INFO stopped: cron-job (terminated by SIGTERM)
+2022-11-09 08:00:56,734 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-11-09 08:00:56,734 INFO Included extra file "/etc/supervisor.d/cron.conf" during parsing
+2022-11-09 08:00:56,735 INFO Included extra file "/etc/supervisor.d/horizon.conf" during parsing
+2022-11-09 08:00:56,735 INFO Included extra file "/etc/supervisor.d/php-fpm.conf" during parsing
+2022-11-09 08:00:56,743 INFO supervisord started with pid 1
+2022-11-09 08:00:57,749 INFO spawned: 'cron-job' with pid 10
+2022-11-09 08:00:57,755 INFO spawned: 'horizon' with pid 11
+2022-11-09 08:00:57,764 INFO spawned: 'php-fpm' with pid 12
+2022-11-09 08:00:58,842 INFO success: cron-job entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 08:00:58,843 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 08:00:58,843 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 09:59:16,469 WARN received SIGQUIT indicating exit request
+2022-11-09 09:59:16,473 INFO waiting for cron-job, horizon, php-fpm to die
+2022-11-09 09:59:16,492 INFO stopped: php-fpm (exit status 0)
+2022-11-09 09:59:20,308 INFO stopped: horizon (exit status 0)
+2022-11-09 09:59:20,345 INFO waiting for cron-job to die
+2022-11-09 09:59:20,348 INFO stopped: cron-job (terminated by SIGTERM)
+2022-11-09 09:59:20,591 INFO reaped unknown pid 862 (exit status 0)
+2022-11-09 10:53:28,290 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-11-09 10:53:28,292 INFO Included extra file "/etc/supervisor.d/cron.conf" during parsing
+2022-11-09 10:53:28,293 INFO Included extra file "/etc/supervisor.d/horizon.conf" during parsing
+2022-11-09 10:53:28,293 INFO Included extra file "/etc/supervisor.d/php-fpm.conf" during parsing
+2022-11-09 10:53:28,310 INFO supervisord started with pid 1
+2022-11-09 10:53:29,314 INFO spawned: 'cron-job' with pid 10
+2022-11-09 10:53:29,323 INFO spawned: 'horizon' with pid 11
+2022-11-09 10:53:29,331 INFO spawned: 'php-fpm' with pid 12
+2022-11-09 10:53:30,560 INFO success: cron-job entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 10:53:30,560 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-09 10:53:30,561 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-10 11:14:07,336 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-11-10 11:14:07,337 INFO Included extra file "/etc/supervisor.d/cron.conf" during parsing
+2022-11-10 11:14:07,338 INFO Included extra file "/etc/supervisor.d/horizon.conf" during parsing
+2022-11-10 11:14:07,339 INFO Included extra file "/etc/supervisor.d/php-fpm.conf" during parsing
+2022-11-10 11:14:07,357 INFO supervisord started with pid 1
+2022-11-10 11:14:08,363 INFO spawned: 'cron-job' with pid 10
+2022-11-10 11:14:08,374 INFO spawned: 'horizon' with pid 11
+2022-11-10 11:14:08,384 INFO spawned: 'php-fpm' with pid 12
+2022-11-10 11:14:09,583 INFO success: cron-job entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-10 11:14:09,584 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-10 11:14:09,585 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-10 11:22:07,420 WARN received SIGQUIT indicating exit request
+2022-11-10 11:22:07,421 INFO waiting for cron-job, horizon, php-fpm to die
+2022-11-10 11:22:07,426 INFO stopped: php-fpm (exit status 0)
+2022-11-10 11:22:10,594 INFO stopped: horizon (exit status 0)
+2022-11-10 11:22:10,598 INFO waiting for cron-job to die
+2022-11-10 11:22:10,600 INFO stopped: cron-job (terminated by SIGTERM)

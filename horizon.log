@@ -1,0 +1,2893 @@
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+   UnexpectedValueException 
+
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode: failed to open stream: Permission denied
+The exception occurred while attempting to log: Command "horizon" is not defined.
+Context: {"exception":{}}
+Context: {"exception":{}}
+
+  at vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:146
+    142▕             restore_error_handler();
+    143▕             if (!is_resource($stream)) {
+    144▕                 $this->stream = null;
+    145▕ 
+  ➜ 146▕                 throw new \UnexpectedValueException(sprintf('The stream or file "%s" could not be opened in append mode: '.$this->errorMessage, $url) . Utils::getRecordMessageForException($record));
+    147▕             }
+    148▕             stream_set_chunk_size($stream, $this->streamChunkSize);
+    149▕             $this->stream = $stream;
+    150▕         }
+
+      [2m+9 vendor frames [22m
+  10  [internal]:0
+      Illuminate\Foundation\Bootstrap\HandleExceptions::handleException()
+
+In StreamHandler.php line 146:
+                                                                               
+  The stream or file "/var/www/html/storage/logs/laravel.log" could not be op  
+  ened in append mode: failed to open stream: Permission denied                
+  The exception occurred while attempting to log: The stream or file "/var/ww  
+  w/html/storage/logs/laravel.log" could not be opened in append mode: failed  
+   to open stream: Permission denied                                           
+  The exception occurred while attempting to log: Class 'Laravel\Horizon\Hori  
+  zonServiceProvider' not found                                                
+  Context: {"exception":{}}                                                    
+  Context: {"exception":{}}                                                    
+                                                                               
+
+Horizon started successfully.
+Horizon started successfully.
+PHP Fatal error:  Uncaught ErrorException: include(/var/www/html/vendor/composer/../nunomaduro/collision/src/Adapters/Laravel/IgnitionSolutionsRepository.php): failed to open stream: No such file or directory in /var/www/html/vendor/composer/ClassLoader.php:571
+Stack trace:
+#0 /var/www/html/vendor/composer/ClassLoader.php(571): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /var/www/html/vendor/composer/ClassLoader.php(571): include()
+#2 /var/www/html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#4 /var/www/html/vendor/nunomaduro/collision/src/Adapters/Laravel/CollisionServiceProvider.php(50): spl_autoload_call()
+#5 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): NunoMaduro\Collision\Adapters\Laravel\CollisionServiceProvider->NunoMaduro\Collision\Adapters\Laravel\{closure}()
+#6 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\ in /var/www/html/vendor/composer/ClassLoader.php on line 571
+PHP Fatal error:  Uncaught ErrorException: include(/var/www/html/vendor/composer/../nunomaduro/collision/src/Adapters/Laravel/IgnitionSolutionsRepository.php): failed to open stream: No such file or directory in /var/www/html/vendor/composer/ClassLoader.php:571
+Stack trace:
+#0 /var/www/html/vendor/composer/ClassLoader.php(571): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /var/www/html/vendor/composer/ClassLoader.php(571): include()
+#2 /var/www/html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#4 /var/www/html/vendor/nunomaduro/collision/src/Adapters/Laravel/CollisionServiceProvider.php(50): spl_autoload_call()
+#5 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): NunoMaduro\Collision\Adapters\Laravel\CollisionServiceProvider->NunoMaduro\Collision\Adapters\Laravel\{closure}()
+#6 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\ in /var/www/html/vendor/composer/ClassLoader.php on line 571
+PHP Warning:  require(/var/www/html/vendor/composer/../facade/flare-client-php/src/helpers.php): failed to open stream: No such file or directory in /var/www/html/vendor/composer/autoload_real.php on line 53
+PHP Fatal error:  require(): Failed opening required '/var/www/html/vendor/composer/../facade/flare-client-php/src/helpers.php' (include_path='.:/usr/local/lib/php') in /var/www/html/vendor/composer/autoload_real.php on line 53
+PHP Warning:  require(/var/www/html/vendor/composer/../facade/flare-client-php/src/helpers.php): failed to open stream: No such file or directory in /var/www/html/vendor/composer/autoload_real.php on line 53
+PHP Fatal error:  require(): Failed opening required '/var/www/html/vendor/composer/../facade/flare-client-php/src/helpers.php' (include_path='.:/usr/local/lib/php') in /var/www/html/vendor/composer/autoload_real.php on line 53
+PHP Warning:  require(/var/www/html/vendor/composer/../facade/flare-client-php/src/helpers.php): failed to open stream: No such file or directory in /var/www/html/vendor/composer/autoload_real.php on line 53
+PHP Fatal error:  require(): Failed opening required '/var/www/html/vendor/composer/../facade/flare-client-php/src/helpers.php' (include_path='.:/usr/local/lib/php') in /var/www/html/vendor/composer/autoload_real.php on line 53
+PHP Warning:  require(/var/www/html/vendor/composer/../facade/flare-client-php/src/helpers.php): failed to open stream: No such file or directory in /var/www/html/vendor/composer/autoload_real.php on line 53
+PHP Fatal error:  require(): Failed opening required '/var/www/html/vendor/composer/../facade/flare-client-php/src/helpers.php' (include_path='.:/usr/local/lib/php') in /var/www/html/vendor/composer/autoload_real.php on line 53
+PHP Warning:  require(/var/www/html/vendor/composer/../facade/flare-client-php/src/helpers.php): failed to open stream: No such file or directory in /var/www/html/vendor/composer/autoload_real.php on line 53
+PHP Fatal error:  require(): Failed opening required '/var/www/html/vendor/composer/../facade/flare-client-php/src/helpers.php' (include_path='.:/usr/local/lib/php') in /var/www/html/vendor/composer/autoload_real.php on line 53
+PHP Warning:  require(/var/www/html/vendor/composer/../facade/flare-client-php/src/helpers.php): failed to open stream: No such file or directory in /var/www/html/vendor/composer/autoload_real.php on line 53
+PHP Fatal error:  require(): Failed opening required '/var/www/html/vendor/composer/../facade/flare-client-php/src/helpers.php' (include_path='.:/usr/local/lib/php') in /var/www/html/vendor/composer/autoload_real.php on line 53
+PHP Warning:  require(/var/www/html/vendor/composer/../facade/flare-client-php/src/helpers.php): failed to open stream: No such file or directory in /var/www/html/vendor/composer/autoload_real.php on line 53
+PHP Fatal error:  require(): Failed opening required '/var/www/html/vendor/composer/../facade/flare-client-php/src/helpers.php' (include_path='.:/usr/local/lib/php') in /var/www/html/vendor/composer/autoload_real.php on line 53
+PHP Warning:  require(/var/www/html/vendor/composer/../facade/flare-client-php/src/helpers.php): failed to open stream: No such file or directory in /var/www/html/vendor/composer/autoload_real.php on line 53
+PHP Fatal error:  require(): Failed opening required '/var/www/html/vendor/composer/../facade/flare-client-php/src/helpers.php' (include_path='.:/usr/local/lib/php') in /var/www/html/vendor/composer/autoload_real.php on line 53
+PHP Warning:  require(/var/www/html/vendor/composer/../facade/flare-client-php/src/helpers.php): failed to open stream: No such file or directory in /var/www/html/vendor/composer/autoload_real.php on line 53
+PHP Fatal error:  require(): Failed opening required '/var/www/html/vendor/composer/../facade/flare-client-php/src/helpers.php' (include_path='.:/usr/local/lib/php') in /var/www/html/vendor/composer/autoload_real.php on line 53
+PHP Warning:  require(/var/www/html/vendor/composer/../facade/flare-client-php/src/helpers.php): failed to open stream: No such file or directory in /var/www/html/vendor/composer/autoload_real.php on line 53
+PHP Fatal error:  require(): Failed opening required '/var/www/html/vendor/composer/../facade/flare-client-php/src/helpers.php' (include_path='.:/usr/local/lib/php') in /var/www/html/vendor/composer/autoload_real.php on line 53
+PHP Warning:  require(/var/www/html/vendor/composer/../facade/flare-client-php/src/helpers.php): failed to open stream: No such file or directory in /var/www/html/vendor/composer/autoload_real.php on line 53
+PHP Fatal error:  require(): Failed opening required '/var/www/html/vendor/composer/../facade/flare-client-php/src/helpers.php' (include_path='.:/usr/local/lib/php') in /var/www/html/vendor/composer/autoload_real.php on line 53
+PHP Warning:  require(/var/www/html/vendor/composer/../facade/flare-client-php/src/helpers.php): failed to open stream: No such file or directory in /var/www/html/vendor/composer/autoload_real.php on line 53
+PHP Fatal error:  require(): Failed opening required '/var/www/html/vendor/composer/../facade/flare-client-php/src/helpers.php' (include_path='.:/usr/local/lib/php') in /var/www/html/vendor/composer/autoload_real.php on line 53
+PHP Warning:  require(/var/www/html/vendor/composer/../facade/flare-client-php/src/helpers.php): failed to open stream: No such file or directory in /var/www/html/vendor/composer/autoload_real.php on line 53
+PHP Fatal error:  require(): Failed opening required '/var/www/html/vendor/composer/../facade/flare-client-php/src/helpers.php' (include_path='.:/usr/local/lib/php') in /var/www/html/vendor/composer/autoload_real.php on line 53
+PHP Warning:  require(/var/www/html/vendor/composer/../facade/flare-client-php/src/helpers.php): failed to open stream: No such file or directory in /var/www/html/vendor/composer/autoload_real.php on line 53
+PHP Fatal error:  require(): Failed opening required '/var/www/html/vendor/composer/../facade/flare-client-php/src/helpers.php' (include_path='.:/usr/local/lib/php') in /var/www/html/vendor/composer/autoload_real.php on line 53
+PHP Warning:  require(/var/www/html/vendor/composer/../facade/flare-client-php/src/helpers.php): failed to open stream: No such file or directory in /var/www/html/vendor/composer/autoload_real.php on line 53
+PHP Fatal error:  require(): Failed opening required '/var/www/html/vendor/composer/../facade/flare-client-php/src/helpers.php' (include_path='.:/usr/local/lib/php') in /var/www/html/vendor/composer/autoload_real.php on line 53
+PHP Warning:  require(/var/www/html/vendor/composer/../facade/flare-client-php/src/helpers.php): failed to open stream: No such file or directory in /var/www/html/vendor/composer/autoload_real.php on line 53
+PHP Fatal error:  require(): Failed opening required '/var/www/html/vendor/composer/../facade/flare-client-php/src/helpers.php' (include_path='.:/usr/local/lib/php') in /var/www/html/vendor/composer/autoload_real.php on line 53
+PHP Warning:  require(/var/www/html/vendor/composer/../facade/flare-client-php/src/helpers.php): failed to open stream: No such file or directory in /var/www/html/vendor/composer/autoload_real.php on line 53
+PHP Fatal error:  require(): Failed opening required '/var/www/html/vendor/composer/../facade/flare-client-php/src/helpers.php' (include_path='.:/usr/local/lib/php') in /var/www/html/vendor/composer/autoload_real.php on line 53
+PHP Warning:  require(/var/www/html/vendor/composer/../facade/flare-client-php/src/helpers.php): failed to open stream: No such file or directory in /var/www/html/vendor/composer/autoload_real.php on line 53
+PHP Fatal error:  require(): Failed opening required '/var/www/html/vendor/composer/../facade/flare-client-php/src/helpers.php' (include_path='.:/usr/local/lib/php') in /var/www/html/vendor/composer/autoload_real.php on line 53
+Horizon started successfully.
+PHP Fatal error:  Uncaught ErrorException: include(/var/www/html/vendor/composer/../nunomaduro/collision/src/Adapters/Laravel/IgnitionSolutionsRepository.php): failed to open stream: No such file or directory in /var/www/html/vendor/composer/ClassLoader.php:571
+Stack trace:
+#0 /var/www/html/vendor/composer/ClassLoader.php(571): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /var/www/html/vendor/composer/ClassLoader.php(571): include()
+#2 /var/www/html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#4 /var/www/html/vendor/nunomaduro/collision/src/Adapters/Laravel/CollisionServiceProvider.php(50): spl_autoload_call()
+#5 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): NunoMaduro\Collision\Adapters\Laravel\CollisionServiceProvider->NunoMaduro\Collision\Adapters\Laravel\{closure}()
+#6 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\ in /var/www/html/vendor/composer/ClassLoader.php on line 571
+PHP Fatal error:  Uncaught ErrorException: include(/var/www/html/vendor/composer/../nunomaduro/collision/src/Adapters/Laravel/IgnitionSolutionsRepository.php): failed to open stream: No such file or directory in /var/www/html/vendor/composer/ClassLoader.php:571
+Stack trace:
+#0 /var/www/html/vendor/composer/ClassLoader.php(571): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /var/www/html/vendor/composer/ClassLoader.php(571): include()
+#2 /var/www/html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#4 /var/www/html/vendor/nunomaduro/collision/src/Adapters/Laravel/CollisionServiceProvider.php(50): spl_autoload_call()
+#5 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): NunoMaduro\Collision\Adapters\Laravel\CollisionServiceProvider->NunoMaduro\Collision\Adapters\Laravel\{closure}()
+#6 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\ in /var/www/html/vendor/composer/ClassLoader.php on line 571
+PHP Warning:  require(/var/www/html/vendor/composer/../facade/flare-client-php/src/helpers.php): failed to open stream: No such file or directory in /var/www/html/vendor/composer/autoload_real.php on line 53
+PHP Fatal error:  require(): Failed opening required '/var/www/html/vendor/composer/../facade/flare-client-php/src/helpers.php' (include_path='.:/usr/local/lib/php') in /var/www/html/vendor/composer/autoload_real.php on line 53
+PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:26
+Stack trace:
+#0 /var/www/html/vendor/composer/ClassLoader.php(571): include()
+#1 /var/www/html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(175): spl_autoload_call()
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#5 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get()
+#6 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#7 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(252): Illuminate\Log\LogManager->error()
+#8 /var/www/html/vendor/laravel/fra in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 26
+PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:26
+Stack trace:
+#0 /var/www/html/vendor/composer/ClassLoader.php(571): include()
+#1 /var/www/html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(175): spl_autoload_call()
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#5 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get()
+#6 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#7 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(252): Illuminate\Log\LogManager->error()
+#8 /var/www/html/vendor/laravel/fra in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 26
+PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:26
+Stack trace:
+#0 /var/www/html/vendor/composer/ClassLoader.php(571): include()
+#1 /var/www/html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(175): spl_autoload_call()
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#5 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get()
+#6 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#7 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(252): Illuminate\Log\LogManager->error()
+#8 /var/www/html/vendor/laravel/fra in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 26
+PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:26
+Stack trace:
+#0 /var/www/html/vendor/composer/ClassLoader.php(571): include()
+#1 /var/www/html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(175): spl_autoload_call()
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#5 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get()
+#6 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#7 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(252): Illuminate\Log\LogManager->error()
+#8 /var/www/html/vendor/laravel/fra in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 26
+PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:26
+Stack trace:
+#0 /var/www/html/vendor/composer/ClassLoader.php(571): include()
+#1 /var/www/html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(175): spl_autoload_call()
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#5 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get()
+#6 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#7 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(252): Illuminate\Log\LogManager->error()
+#8 /var/www/html/vendor/laravel/fra in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 26
+PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:26
+Stack trace:
+#0 /var/www/html/vendor/composer/ClassLoader.php(571): include()
+#1 /var/www/html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(175): spl_autoload_call()
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#5 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get()
+#6 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#7 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(252): Illuminate\Log\LogManager->error()
+#8 /var/www/html/vendor/laravel/fra in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 26
+PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:26
+Stack trace:
+#0 /var/www/html/vendor/composer/ClassLoader.php(571): include()
+#1 /var/www/html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(175): spl_autoload_call()
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#5 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get()
+#6 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#7 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(252): Illuminate\Log\LogManager->error()
+#8 /var/www/html/vendor/laravel/fra in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 26
+PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:26
+Stack trace:
+#0 /var/www/html/vendor/composer/ClassLoader.php(571): include()
+#1 /var/www/html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(175): spl_autoload_call()
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#5 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get()
+#6 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#7 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(252): Illuminate\Log\LogManager->error()
+#8 /var/www/html/vendor/laravel/fra in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 26
+PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:26
+Stack trace:
+#0 /var/www/html/vendor/composer/ClassLoader.php(571): include()
+#1 /var/www/html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(175): spl_autoload_call()
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#5 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get()
+#6 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#7 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(252): Illuminate\Log\LogManager->error()
+#8 /var/www/html/vendor/laravel/fra in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 26
+PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:26
+Stack trace:
+#0 /var/www/html/vendor/composer/ClassLoader.php(571): include()
+#1 /var/www/html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(175): spl_autoload_call()
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#5 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get()
+#6 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#7 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(252): Illuminate\Log\LogManager->error()
+#8 /var/www/html/vendor/laravel/fra in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 26
+PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:26
+Stack trace:
+#0 /var/www/html/vendor/composer/ClassLoader.php(571): include()
+#1 /var/www/html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(175): spl_autoload_call()
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#5 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get()
+#6 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#7 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(252): Illuminate\Log\LogManager->error()
+#8 /var/www/html/vendor/laravel/fra in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 26
+PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:26
+Stack trace:
+#0 /var/www/html/vendor/composer/ClassLoader.php(571): include()
+#1 /var/www/html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(175): spl_autoload_call()
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#5 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get()
+#6 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#7 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(252): Illuminate\Log\LogManager->error()
+#8 /var/www/html/vendor/laravel/fra in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 26
+PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:26
+Stack trace:
+#0 /var/www/html/vendor/composer/ClassLoader.php(571): include()
+#1 /var/www/html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(175): spl_autoload_call()
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#5 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get()
+#6 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#7 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(252): Illuminate\Log\LogManager->error()
+#8 /var/www/html/vendor/laravel/fra in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 26
+PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:26
+Stack trace:
+#0 /var/www/html/vendor/composer/ClassLoader.php(571): include()
+#1 /var/www/html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(175): spl_autoload_call()
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#5 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get()
+#6 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#7 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(252): Illuminate\Log\LogManager->error()
+#8 /var/www/html/vendor/laravel/fra in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 26
+PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:26
+Stack trace:
+#0 /var/www/html/vendor/composer/ClassLoader.php(571): include()
+#1 /var/www/html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(175): spl_autoload_call()
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#5 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get()
+#6 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#7 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(252): Illuminate\Log\LogManager->error()
+#8 /var/www/html/vendor/laravel/fra in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 26
+PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:26
+Stack trace:
+#0 /var/www/html/vendor/composer/ClassLoader.php(571): include()
+#1 /var/www/html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(175): spl_autoload_call()
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#5 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get()
+#6 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#7 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(252): Illuminate\Log\LogManager->error()
+#8 /var/www/html/vendor/laravel/fra in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 26
+PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:26
+Stack trace:
+#0 /var/www/html/vendor/composer/ClassLoader.php(571): include()
+#1 /var/www/html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(175): spl_autoload_call()
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#5 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get()
+#6 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#7 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(252): Illuminate\Log\LogManager->error()
+#8 /var/www/html/vendor/laravel/fra in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 26
+PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:26
+Stack trace:
+#0 /var/www/html/vendor/composer/ClassLoader.php(571): include()
+#1 /var/www/html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(175): spl_autoload_call()
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#5 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get()
+#6 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#7 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(252): Illuminate\Log\LogManager->error()
+#8 /var/www/html/vendor/laravel/fra in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 26
+PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:26
+Stack trace:
+#0 /var/www/html/vendor/composer/ClassLoader.php(571): include()
+#1 /var/www/html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(175): spl_autoload_call()
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#5 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get()
+#6 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#7 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(252): Illuminate\Log\LogManager->error()
+#8 /var/www/html/vendor/laravel/fra in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 26
+PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:26
+Stack trace:
+#0 /var/www/html/vendor/composer/ClassLoader.php(571): include()
+#1 /var/www/html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(175): spl_autoload_call()
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#5 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get()
+#6 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#7 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(252): Illuminate\Log\LogManager->error()
+#8 /var/www/html/vendor/laravel/fra in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 26
+PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:26
+Stack trace:
+#0 /var/www/html/vendor/composer/ClassLoader.php(571): include()
+#1 /var/www/html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(175): spl_autoload_call()
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#5 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get()
+#6 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#7 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(252): Illuminate\Log\LogManager->error()
+#8 /var/www/html/vendor/laravel/fra in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 26
+PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:26
+Stack trace:
+#0 /var/www/html/vendor/composer/ClassLoader.php(571): include()
+#1 /var/www/html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(175): spl_autoload_call()
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#5 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get()
+#6 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#7 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(252): Illuminate\Log\LogManager->error()
+#8 /var/www/html/vendor/laravel/fra in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 26
+PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:26
+Stack trace:
+#0 /var/www/html/vendor/composer/ClassLoader.php(571): include()
+#1 /var/www/html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(175): spl_autoload_call()
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#5 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get()
+#6 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#7 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(252): Illuminate\Log\LogManager->error()
+#8 /var/www/html/vendor/laravel/fra in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 26
+PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:26
+Stack trace:
+#0 /var/www/html/vendor/composer/ClassLoader.php(571): include()
+#1 /var/www/html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(175): spl_autoload_call()
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#5 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get()
+#6 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#7 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(252): Illuminate\Log\LogManager->error()
+#8 /var/www/html/vendor/laravel/fra in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 26
+PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:26
+Stack trace:
+#0 /var/www/html/vendor/composer/ClassLoader.php(571): include()
+#1 /var/www/html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(175): spl_autoload_call()
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#5 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get()
+#6 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#7 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(252): Illuminate\Log\LogManager->error()
+#8 /var/www/html/vendor/laravel/fra in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 26
+PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:26
+Stack trace:
+#0 /var/www/html/vendor/composer/ClassLoader.php(571): include()
+#1 /var/www/html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(175): spl_autoload_call()
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#5 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get()
+#6 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#7 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(252): Illuminate\Log\LogManager->error()
+#8 /var/www/html/vendor/laravel/fra in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 26
+PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:26
+Stack trace:
+#0 /var/www/html/vendor/composer/ClassLoader.php(571): include()
+#1 /var/www/html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(175): spl_autoload_call()
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#5 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get()
+#6 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#7 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(252): Illuminate\Log\LogManager->error()
+#8 /var/www/html/vendor/laravel/fra in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 26
+PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:26
+Stack trace:
+#0 /var/www/html/vendor/composer/ClassLoader.php(571): include()
+#1 /var/www/html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(175): spl_autoload_call()
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#5 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get()
+#6 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#7 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(252): Illuminate\Log\LogManager->error()
+#8 /var/www/html/vendor/laravel/fra in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 26
+PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:26
+Stack trace:
+#0 /var/www/html/vendor/composer/ClassLoader.php(571): include()
+#1 /var/www/html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(175): spl_autoload_call()
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#5 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get()
+#6 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#7 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(252): Illuminate\Log\LogManager->error()
+#8 /var/www/html/vendor/laravel/fra in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 26
+PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:26
+Stack trace:
+#0 /var/www/html/vendor/composer/ClassLoader.php(571): include()
+#1 /var/www/html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(175): spl_autoload_call()
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#5 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get()
+#6 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#7 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(252): Illuminate\Log\LogManager->error()
+#8 /var/www/html/vendor/laravel/fra in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 26
+PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:26
+Stack trace:
+#0 /var/www/html/vendor/composer/ClassLoader.php(571): include()
+#1 /var/www/html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(175): spl_autoload_call()
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#5 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get()
+#6 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#7 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(252): Illuminate\Log\LogManager->error()
+#8 /var/www/html/vendor/laravel/fra in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 26
+PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:26
+Stack trace:
+#0 /var/www/html/vendor/composer/ClassLoader.php(571): include()
+#1 /var/www/html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(175): spl_autoload_call()
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#5 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get()
+#6 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#7 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(252): Illuminate\Log\LogManager->error()
+#8 /var/www/html/vendor/laravel/fra in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 26
+PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:26
+Stack trace:
+#0 /var/www/html/vendor/composer/ClassLoader.php(571): include()
+#1 /var/www/html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(175): spl_autoload_call()
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#5 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get()
+#6 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#7 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(252): Illuminate\Log\LogManager->error()
+#8 /var/www/html/vendor/laravel/fra in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 26
+PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:26
+Stack trace:
+#0 /var/www/html/vendor/composer/ClassLoader.php(571): include()
+#1 /var/www/html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(175): spl_autoload_call()
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#5 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get()
+#6 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#7 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(252): Illuminate\Log\LogManager->error()
+#8 /var/www/html/vendor/laravel/fra in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 26
+PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:26
+Stack trace:
+#0 /var/www/html/vendor/composer/ClassLoader.php(571): include()
+#1 /var/www/html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(175): spl_autoload_call()
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#5 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get()
+#6 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#7 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(252): Illuminate\Log\LogManager->error()
+#8 /var/www/html/vendor/laravel/fra in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 26
+PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:26
+Stack trace:
+#0 /var/www/html/vendor/composer/ClassLoader.php(571): include()
+#1 /var/www/html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(175): spl_autoload_call()
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#5 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get()
+#6 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#7 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(252): Illuminate\Log\LogManager->error()
+#8 /var/www/html/vendor/laravel/fra in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 26
+PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:26
+Stack trace:
+#0 /var/www/html/vendor/composer/ClassLoader.php(571): include()
+#1 /var/www/html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(175): spl_autoload_call()
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#5 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get()
+#6 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#7 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(252): Illuminate\Log\LogManager->error()
+#8 /var/www/html/vendor/laravel/fra in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 26
+PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:26
+Stack trace:
+#0 /var/www/html/vendor/composer/ClassLoader.php(571): include()
+#1 /var/www/html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(175): spl_autoload_call()
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#5 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get()
+#6 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#7 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(252): Illuminate\Log\LogManager->error()
+#8 /var/www/html/vendor/laravel/fra in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 26
+PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:26
+Stack trace:
+#0 /var/www/html/vendor/composer/ClassLoader.php(571): include()
+#1 /var/www/html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(175): spl_autoload_call()
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#5 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get()
+#6 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#7 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(252): Illuminate\Log\LogManager->error()
+#8 /var/www/html/vendor/laravel/fra in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 26
+PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:26
+Stack trace:
+#0 /var/www/html/vendor/composer/ClassLoader.php(571): include()
+#1 /var/www/html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(175): spl_autoload_call()
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#5 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get()
+#6 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#7 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(252): Illuminate\Log\LogManager->error()
+#8 /var/www/html/vendor/laravel/fra in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 26
+PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:26
+Stack trace:
+#0 /var/www/html/vendor/composer/ClassLoader.php(571): include()
+#1 /var/www/html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(175): spl_autoload_call()
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#5 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get()
+#6 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#7 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(252): Illuminate\Log\LogManager->error()
+#8 /var/www/html/vendor/laravel/fra in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 26
+PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:26
+Stack trace:
+#0 /var/www/html/vendor/composer/ClassLoader.php(571): include()
+#1 /var/www/html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(175): spl_autoload_call()
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#5 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get()
+#6 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#7 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(252): Illuminate\Log\LogManager->error()
+#8 /var/www/html/vendor/laravel/fra in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 26
+PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:26
+Stack trace:
+#0 /var/www/html/vendor/composer/ClassLoader.php(571): include()
+#1 /var/www/html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(175): spl_autoload_call()
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#5 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get()
+#6 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#7 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(252): Illuminate\Log\LogManager->error()
+#8 /var/www/html/vendor/laravel/fra in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 26
+PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:26
+Stack trace:
+#0 /var/www/html/vendor/composer/ClassLoader.php(571): include()
+#1 /var/www/html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(175): spl_autoload_call()
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#5 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get()
+#6 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#7 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(252): Illuminate\Log\LogManager->error()
+#8 /var/www/html/vendor/laravel/fra in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 26
+PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:26
+Stack trace:
+#0 /var/www/html/vendor/composer/ClassLoader.php(571): include()
+#1 /var/www/html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(175): spl_autoload_call()
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#5 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get()
+#6 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#7 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(252): Illuminate\Log\LogManager->error()
+#8 /var/www/html/vendor/laravel/fra in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 26
+PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:26
+Stack trace:
+#0 /var/www/html/vendor/composer/ClassLoader.php(571): include()
+#1 /var/www/html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(175): spl_autoload_call()
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#5 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get()
+#6 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#7 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(252): Illuminate\Log\LogManager->error()
+#8 /var/www/html/vendor/laravel/fra in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 26
+PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:26
+Stack trace:
+#0 /var/www/html/vendor/composer/ClassLoader.php(571): include()
+#1 /var/www/html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(175): spl_autoload_call()
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#5 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get()
+#6 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#7 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(252): Illuminate\Log\LogManager->error()
+#8 /var/www/html/vendor/laravel/fra in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 26
+PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:26
+Stack trace:
+#0 /var/www/html/vendor/composer/ClassLoader.php(571): include()
+#1 /var/www/html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(175): spl_autoload_call()
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#5 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get()
+#6 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#7 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(252): Illuminate\Log\LogManager->error()
+#8 /var/www/html/vendor/laravel/fra in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 26
+PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:26
+Stack trace:
+#0 /var/www/html/vendor/composer/ClassLoader.php(571): include()
+#1 /var/www/html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(175): spl_autoload_call()
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#5 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get()
+#6 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#7 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(252): Illuminate\Log\LogManager->error()
+#8 /var/www/html/vendor/laravel/fra in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 26
+PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:26
+Stack trace:
+#0 /var/www/html/vendor/composer/ClassLoader.php(571): include()
+#1 /var/www/html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(175): spl_autoload_call()
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#5 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get()
+#6 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#7 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(252): Illuminate\Log\LogManager->error()
+#8 /var/www/html/vendor/laravel/fra in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 26
+PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:26
+Stack trace:
+#0 /var/www/html/vendor/composer/ClassLoader.php(571): include()
+#1 /var/www/html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(175): spl_autoload_call()
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#5 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get()
+#6 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#7 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(252): Illuminate\Log\LogManager->error()
+#8 /var/www/html/vendor/laravel/fra in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 26
+PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php:26
+Stack trace:
+#0 /var/www/html/vendor/composer/ClassLoader.php(571): include()
+#1 /var/www/html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(175): spl_autoload_call()
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#5 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get()
+#6 /var/www/html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#7 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(252): Illuminate\Log\LogManager->error()
+#8 /var/www/html/vendor/laravel/fra in /var/www/html/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php on line 26
+Horizon started successfully.
+Horizon started successfully.
+Horizon started successfully.
+
+In AbstractConnection.php line 132:
+                                             
+  Connection refused [tcp://127.0.0.1:6379]  
+                                             
+
+
+In AbstractConnection.php line 132:
+                                             
+  Connection refused [tcp://127.0.0.1:6379]  
+                                             
+
+
+In AbstractConnection.php line 132:
+                                             
+  Connection refused [tcp://127.0.0.1:6379]  
+                                             
+
+
+In AbstractConnection.php line 132:
+                                             
+  Connection refused [tcp://127.0.0.1:6379]  
+                                             
+
+
+In AbstractConnection.php line 132:
+                                             
+  Connection refused [tcp://127.0.0.1:6379]  
+                                             
+
+
+In AbstractConnection.php line 132:
+                                             
+  Connection refused [tcp://127.0.0.1:6379]  
+                                             
+
+
+In AbstractConnection.php line 132:
+                                             
+  Connection refused [tcp://127.0.0.1:6379]  
+                                             
+
+Horizon started successfully.
+Horizon started successfully.
+[2022-11-09 03:53:44][f36f4cb9-c81f-4d9d-9814-95381bcf1599] Processing: App\Events\MessagePosted
+[2022-11-09 03:53:45][f36f4cb9-c81f-4d9d-9814-95381bcf1599] Processed:  App\Events\MessagePosted
+[2022-11-09 03:53:45][d9c83f9a-8b19-424b-a108-76f1fc4eeb9b] Processing: App\Events\MessagePosted
+[2022-11-09 03:53:45][d9c83f9a-8b19-424b-a108-76f1fc4eeb9b] Processed:  App\Events\MessagePosted
+[2022-11-09 03:53:58][b1cf08ee-4cd5-4247-942e-9d9a38abb908] Processing: App\Events\MessagePosted
+[2022-11-09 03:54:00][b1cf08ee-4cd5-4247-942e-9d9a38abb908] Processed:  App\Events\MessagePosted
+[2022-11-09 03:54:15][adec4012-4771-47fa-9e1d-9ae4b87cd02f] Processing: App\Events\MessagePosted
+[2022-11-09 03:54:15][adec4012-4771-47fa-9e1d-9ae4b87cd02f] Processed:  App\Events\MessagePosted
+[2022-11-09 03:55:26][dbaa9d79-2bb1-402a-a213-8ccaafbedfce] Processing: App\Events\MessagePosted
+[2022-11-09 03:55:28][dbaa9d79-2bb1-402a-a213-8ccaafbedfce] Processed:  App\Events\MessagePosted
+[2022-11-09 04:01:28][b93c3eca-7922-4325-b18d-b47102459085] Processing: App\Events\MessagePosted
+[2022-11-09 04:01:28][b93c3eca-7922-4325-b18d-b47102459085] Processed:  App\Events\MessagePosted
+[2022-11-09 04:44:18][e1b628f8-759f-4a2c-a898-2308ed10942b] Processing: App\Events\MessagePosted
+[2022-11-09 04:44:18][e1b628f8-759f-4a2c-a898-2308ed10942b] Processed:  App\Events\MessagePosted
+[2022-11-09 04:44:51][411981ee-e5d5-4929-94de-5ba53ad0443b] Processing: App\Events\MessagePosted
+[2022-11-09 04:44:51][411981ee-e5d5-4929-94de-5ba53ad0443b] Processed:  App\Events\MessagePosted
+[2022-11-09 04:51:24][2b4cf725-66c5-4e57-b3bf-e44e410ca26d] Processing: App\Events\MessagePosted
+[2022-11-09 04:51:24][2b4cf725-66c5-4e57-b3bf-e44e410ca26d] Processed:  App\Events\MessagePosted
+[2022-11-09 07:45:04][e38ccc14-a761-4d3f-b955-f0512beb027b] Processing: App\Events\MessagePosted
+[2022-11-09 07:45:04][e38ccc14-a761-4d3f-b955-f0512beb027b] Processed:  App\Events\MessagePosted
+[2022-11-09 07:45:10][95259f6c-a635-4992-8214-5e8928379ad7] Processing: App\Events\MessagePosted
+[2022-11-09 07:45:10][95259f6c-a635-4992-8214-5e8928379ad7] Processed:  App\Events\MessagePosted
+[2022-11-09 07:47:53][9ee3ec2d-a683-4538-affb-8d86c44a325f] Processing: App\Events\MessagePosted
+[2022-11-09 07:47:53][9ee3ec2d-a683-4538-affb-8d86c44a325f] Processed:  App\Events\MessagePosted
+Horizon started successfully.
+[2022-11-09 07:59:05][ebd6d8b7-d3b0-481b-9354-58147571a270] Processing: App\Events\MessagePosted
+[2022-11-09 07:59:07][ebd6d8b7-d3b0-481b-9354-58147571a270] Processed:  App\Events\MessagePosted
+[2022-11-09 07:59:23][a5509007-d313-4ffe-9c57-1165995b3b15] Processing: App\Events\MessagePosted
+[2022-11-09 07:59:24][a5509007-d313-4ffe-9c57-1165995b3b15] Processed:  App\Events\MessagePosted
+[2022-11-09 07:59:32][ab9b31a4-eb39-49a7-91f3-526b637d5c65] Processing: App\Events\MessagePosted
+[2022-11-09 07:59:33][ab9b31a4-eb39-49a7-91f3-526b637d5c65] Processed:  App\Events\MessagePosted
+Horizon started successfully.
+[2022-11-09 08:01:22][9b68cdc3-2d4c-4443-8ba6-7c8cffeea797] Processing: App\Events\MessagePosted
+[2022-11-09 08:01:24][9b68cdc3-2d4c-4443-8ba6-7c8cffeea797] Processed:  App\Events\MessagePosted
+Horizon started successfully.
+[2022-11-09 10:57:25][af4212f7-c318-44d5-8aec-fb719d5fa25c] Processing: App\Events\MessagePosted
+[2022-11-09 10:57:27][af4212f7-c318-44d5-8aec-fb719d5fa25c] Processed:  App\Events\MessagePosted
+[2022-11-09 10:57:45][4da33412-ee1a-4979-9da6-ae296c9a4f05] Processing: App\Events\MessagePosted
+[2022-11-09 10:57:45][4da33412-ee1a-4979-9da6-ae296c9a4f05] Processed:  App\Events\MessagePosted
+[2022-11-09 10:58:16][9b7c15aa-c612-4250-bbd5-59f7644424a2] Processing: App\Events\MessagePosted
+[2022-11-09 10:58:18][9b7c15aa-c612-4250-bbd5-59f7644424a2] Processed:  App\Events\MessagePosted
+[2022-11-09 10:58:28][3ff9c8de-1537-47d0-abc5-bfc9f0ea78c4] Processing: App\Events\MessagePosted
+[2022-11-09 10:58:29][3ff9c8de-1537-47d0-abc5-bfc9f0ea78c4] Processed:  App\Events\MessagePosted
+Horizon started successfully.
